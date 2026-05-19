@@ -14,7 +14,7 @@ Rashid, M., Saha, S., and Raghava, G. P. S. Support Vector Machine-based method 
 
 https://doi.org/10.1186/1471-2105-8-337
 
-This tool and dataset is also available on Zenodo at
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20283376
 
 
 
