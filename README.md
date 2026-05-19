@@ -109,16 +109,13 @@ Proteome-Scale Analysis: The tool can be used for large-scale prediction of loca
 
 ## Contact and Authors
 
-Prof. Gajendra P. S. Raghava  
-Corresponding Author  
+Prof. G.P.S. Raghava 
 
-Email: raghava@imtech.res.in  
+Email: raghava@iiitd.ac.in
 
-Bioinformatics Centre  
-Institute of Microbial Technology  
-Sector 39-A  
-Chandigarh, India  
+Department of Computational Biology, 
 
+Indraprastha Institute of Information Technology (IIIT-Delhi), New Delhi, India.
 
 
 ## Support
